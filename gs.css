@@ -1,0 +1,31 @@
+.speech{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black
+}
+.direction{
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    background-color:rgb(73, 190, 205);
+}
+/* .name{
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet
+} */
+.direction:hover{
+    color:darkkhaki;
+    background-color: forestgreen;
+    }
+
+.auntCandace{
+    color: pink;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.mary{
+    color:darkmagenta;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
